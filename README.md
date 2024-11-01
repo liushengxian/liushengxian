@@ -3,6 +3,7 @@
 - 😄 Pronouns: Shawn Liu/Misanya Liu/Liushengxian
 
 - 🌱 I’m currently learning:
+    - [ ] Electron
     - [ ] Debian
     - [ ] Sqlite
     - [ ] Fastify
